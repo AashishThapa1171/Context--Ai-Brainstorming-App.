@@ -6,4 +6,4 @@ To run project : [npm start] in the terminal if you are a user and if you are de
 
 For the response from LMSTUDIO:
 
-For lmstudio you need to have this model loaded "phi-3.1-mini-128k-instruct" in lmstudio app with the correct url and ip address in the dotenv file.
+For lmstudio you need to have this model loaded "phi-3.1-mini-128k-instruct" in lmstudio app with the correct url and ip address .
